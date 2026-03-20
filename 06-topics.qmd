@@ -25,6 +25,10 @@
 
 {{< include _random_forests.qmd >}}
 
+## Markov Chains and Hidden Markov Models
+
+{{< include _markov.qmd >}}
+
 ## LLM Agents
 
 {{< include LLM-Agents/LLM-Agents.qmd >}}
