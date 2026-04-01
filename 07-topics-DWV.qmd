@@ -7,3 +7,9 @@
 ## Grammar of Graphics
 
 {{< include _grammar_of_graphics.qmd >}}
+
+{{< include visualizing-spatial-data/_visualizing_spatial_data.qmd >}}
+
+## Introduction to PowerBI and Tableau
+
+{{< include intro-powerbi-tableau/_intro_powerbi_tableau.qmd >}}
